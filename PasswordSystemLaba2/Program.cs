@@ -155,8 +155,8 @@ namespace PasswordSystemLaba2
             }
         }
 
-
-        private static Timer timer = new Timer(1 * 10 * 1000); // 
+        //5 хвилин
+        private static Timer timer = new Timer(5 * 60 * 1000); 
 
         private static bool shouldAnswer = true;
         private static void askQuestion(object sender, ElapsedEventArgs e)
