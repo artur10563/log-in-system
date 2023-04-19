@@ -1,0 +1,99 @@
+16.04.2023 20:15:37 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:15:39 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:15:39 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:15:39 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:15:39 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:15:39 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:15:44 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:21:31 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:21:35 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:34:48 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:35:00 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:35:00 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:35:00 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:35:00 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:35:00 USER: ADMIN, ACTION: Reviewed all users info
+16.04.2023 20:35:01 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:35:29 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:35:33 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:36:17 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:36:19 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:38:30 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:38:34 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:39:24 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:39:26 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:39:30 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:39:42 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:39:46 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:39:48 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:40:19 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:40:22 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:40:53 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:40:55 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:41:50 USER: NOT_LOGGED, ACTION: Failed to log in
+16.04.2023 20:43:25 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:43:33 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:45:06 USER: arlur, ACTION: Attempt to Log in
+16.04.2023 20:47:55 USER: NOT_LOGGED, ACTION: Failed to log in
+16.04.2023 20:49:28 USER: ADMIN, ACTION: Logged in
+16.04.2023 20:49:30 USER: ADMIN, ACTION: Logged off
+16.04.2023 20:54:33 USER: NOT_LOGGED, ACTION: Failed to log in
+16.04.2023 20:55:22 USER: NOT_LOGGED, ACTION: Failed to log in
+16.04.2023 20:55:26 USER: NOT_LOGGED, ACTION: Failed to log in
+16.04.2023 21:38:22 USER: NOT_LOGGED, ACTION: Failed to log in
+16.04.2023 21:38:43 USER: ADMIN, ACTION: Logged in
+16.04.2023 21:38:45 USER: ADMIN, ACTION: Logged off
+19.04.2023 15:12:21 USER: ADMIN, ACTION: Logged in
+19.04.2023 15:12:36 USER: NOT_LOGGED, ACTION: Logged off
+19.04.2023 15:19:00 USER: ADMIN, ACTION: Logged in
+19.04.2023 15:19:04 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:04 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:04 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:04 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:04 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:09 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:09 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:09 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:09 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:09 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:13 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:13 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:13 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:13 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:13 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:14 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:15 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:18 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:18 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:18 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:18 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:18 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:20 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:20 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:20 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:20 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:20 USER: ADMIN, ACTION: Reviewed all users info
+19.04.2023 15:19:35 USER: NOT_LOGGED, ACTION: Logged off
